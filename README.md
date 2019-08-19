@@ -1,10 +1,10 @@
-# spring-boot-docker-compose
+# spring-boot-criteria-example
 
 
 Para descargar los fuentes del proyecto se debe ejecutar el siguiente comando:
 
 ```shell
-git clone https://github.com/jeferagudeloc/spring-boot-docker-compose.git
+git clone https://github.com/jeferagudeloc/spring-boot-criteria-example.git
 ```
 
 > Para no ingresar el usuario/contraseña de github en cada instrucción se puede utilizar el [cache de autenticación](https://git-scm.com/docs/git-credential-cache).
@@ -33,3 +33,6 @@ http://localhost:18080/
 
 db - Mysql (BD: dbbase)
 http://localhost:13306/
+
+
+
